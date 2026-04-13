@@ -7,14 +7,14 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 1. **Clone & Dive In**
 
    ```bash
-   git clone https://github.com/AdilShamim8/Posture-detection.git
+   git clone https://https://github.com/Jk180603/posture-detection
    cd Posture-detection
    ```
 2. **Spark Your Environment**
 
    ```bash
    python3.10 -m venv venv
-   source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+   source venv/bin/activate 
    pip install -r requirements.txt
    ```
 3. **Run the Show**
