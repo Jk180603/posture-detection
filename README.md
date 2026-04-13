@@ -27,8 +27,8 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
 
 ```
 Posture-detection/
-├── main.py           # Orchestrates pose detection & overlays
-├── overlays/         # Directory with your overlay assets
-└── requirements.txt  # Python dependencies
+├── main.py           # Handles pose detection and overlay rendering
+├── overlays/         # Contains overlay assets
+└── requirements.txt  # Lists Python dependencies
 ```
 
