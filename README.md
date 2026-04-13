@@ -23,3 +23,12 @@ Imagine a world where your computer sees you—not just as pixels, but as a livi
    python main.py
    ```
 
+##  Peek Under the Hood
+
+```
+Posture-detection/
+├── main.py           # Orchestrates pose detection & overlays
+├── overlays/         # Directory with your overlay assets
+└── requirements.txt  # Python dependencies
+```
+
